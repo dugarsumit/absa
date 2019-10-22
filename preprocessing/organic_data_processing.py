@@ -14,8 +14,8 @@ from collections import defaultdict
 # --------------------------
 
 # -----CHANGE THESE VALUES ACCORDINGLY BEFORE RUNNING THE SCRIPT-----
-TYPE = 'train'
-# TYPE = 'test'
+# TYPE = 'train'
+TYPE = 'test'
 # TYPE = 'val'
 FILE_NAME = 'organic_reduced'
 # FILE_NAME = 'organic'
